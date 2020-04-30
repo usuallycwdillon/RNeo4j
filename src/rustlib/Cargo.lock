@@ -39,7 +39,7 @@ dependencies = [
 
 [[package]]
 name = "bindgen"
-version = "0.20.5"
+version = "0.53.2"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 dependencies = [
  "aster 0.38.0 (registry+https://github.com/rust-lang/crates.io-index)",
@@ -54,7 +54,7 @@ dependencies = [
  "quasi_codegen 0.29.0 (registry+https://github.com/rust-lang/crates.io-index)",
  "regex 0.2.2 (registry+https://github.com/rust-lang/crates.io-index)",
  "rustc-serialize 0.3.24 (registry+https://github.com/rust-lang/crates.io-index)",
- "syntex_syntax 0.54.0 (registry+https://github.com/rust-lang/crates.io-index)",
+ "syntex_syntax 0.59.0 (registry+https://github.com/rust-lang/crates.io-index)",
 ]
 
 [[package]]
