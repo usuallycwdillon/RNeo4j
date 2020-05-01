@@ -3,7 +3,8 @@ name = "rustlib"
 version = "0.1.0"
 
 [dependencies]
-rustr = "0.1"
+libR-sys = "0.1.2"
+rapi = "0.1.0"
 neo4j = { path = "neo4j" }
 
 [lib]
